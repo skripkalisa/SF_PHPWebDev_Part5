@@ -1,6 +1,6 @@
 ## Курс от SkillFactory
 
-[Веб версия домашнего задания](https://phpfs.000webhostapp.com/)
+## [Веб версия домашнего задания](https://phpfs.000webhostapp.com/)
 
 ## **Профессия Веб-разработчик**
 
