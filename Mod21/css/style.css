@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@500&display=swap" rel="stylesheet');
+
+.flex-container {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  max-width: 1200px;
+  background-color: #e6e6e6;
+  padding: 5px;
+  height: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  overflow-wrap: break-word;
+}
+
+h1 {
+  font-size: 5ch;
+}
+section {
+  padding: 2rem 0;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.logo img {
+  width: auto;
+  height: 100%;
+}
+
+.task-list {
+  background-color: #ebfff0;
+  padding: 15px;
+}
