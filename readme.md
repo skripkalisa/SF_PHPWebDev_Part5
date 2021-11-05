@@ -21,5 +21,3 @@
 [Модуль 24 - ООП](Mod24/ 'Модуль 24 - API браузера')
 
 - [Веб версия домашнего задания](https://skripkalisa.github.io/SF_PHPWebDev_Part5/Mod24/index.html)
-  yrcr9QQDEsY9hdk
-  phpfs
