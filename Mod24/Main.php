@@ -12,7 +12,8 @@ $minivan->getAction();
 $minivan->getDetails();
 $minivan->startEngine();
 $minivan->drive();
-$minivan->cleanWindscreen();
+$minivan->beep();
+$minivan->cleanWindshield();
 $minivan->stopEngine();
 
 echo "\n\n";
@@ -27,6 +28,7 @@ $sportsCar->startEngine();
 $sportsCar->drive();
 $sportsCar->turn();
 $sportsCar->turn(0);
+$sportsCar->beep();
 $sportsCar->drive(-1);
 $sportsCar->drive(0);
 $sportsCar->stopEngine();

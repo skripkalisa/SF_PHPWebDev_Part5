@@ -9,7 +9,11 @@ class CivilVehicle extends Vehicle{
     $this->type = "civil vehicle";
   }
 
-  public function cleanWindscreen(){
+  public function beep(){
+    echo "Beeeeep!!!\n";
+  }
+
+  public function cleanWindshield(){
     echo "This {$this->description} has just cleaned the windshield \n";
   }
 }
